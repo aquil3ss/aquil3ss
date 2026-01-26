@@ -50,7 +50,7 @@
 ◻️ **Consumo Energético** – SQL para identificar patrones de consumo y eficiencia. 20/09/2025  
 
  [![Excel](https://img.shields.io/badge/-Excel-000000?style=flat-square&logo=microsoft-excel&logoColor=ffffff)](https://github.com/aquil3ss/retail-analysis)  
-◻️ **Retail Analysis** – Dashboards con Excel avanzado para ventas, ROI y clientes. 23/08/2025  
+◻️ **Retail Analysis** – Análisis de ventas y clientes con Excel avanzado, tablas dinámicas y gráficos para evaluar ingresos y ROI. 23/08/2025  
 
 
 ---
